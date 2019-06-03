@@ -13,7 +13,7 @@ $pdo = new PDO('mysql:host=localhost;dbname=cv', 'root', '', array(PDO::ATTR_ERR
 
 //----------------------------------------------------------------------//
 //Definition d'une constante
-define('URL', 'http://localhost/CV/14-crud/');
+define('URL', 'http://localhost/cv/14-crud/');
 
 //----------------------------------------------------------------------//
 //Déclaration d'une variable :

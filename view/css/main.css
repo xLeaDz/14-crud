@@ -75,7 +75,7 @@ body {
 }
 
 body {
-    background: #fff !important;
+    background: #000 !important;
     font-family: "lora-regular", serif;
     font-size: 1.7rem;
     font-style: normal;
@@ -1367,7 +1367,7 @@ input::-moz-focus-inner {
 
 .display-2 {
     font-family: "montserrat-medium", sans-serif;
-    font-size: 5.2rem;
+    /* font-size: 5.2rem; */
     line-height: 1.255;
     color: #000000;
     margin-top: 0;
@@ -1787,8 +1787,14 @@ input::-moz-focus-inner {
 
 
 /* ------------------------------------------------------------------- 
- * ## mobile menu toggle 
- * ------------------------------------------------------------------- */
+* ## mobile menu toggle 
+* ------------------------------------------------------------------- */
+.blason{
+    position: fixed;
+    top: 24px;
+    left: 38px;
+    width: 150px;
+    }
 .header-menu-toggle {
     position: fixed;
     right: 38px;
@@ -1886,7 +1892,6 @@ input::-moz-focus-inner {
         display: none;
     }
 }
-
 
 
 /* ===================================================================
@@ -2948,7 +2953,7 @@ html.no-csstransitions .home-content__main {
 .s-clients {
     padding-top: 16.2rem;
     padding-bottom: 16.8rem;
-    background-color: #e6e6e6;
+    background-color: #435646 !important;
     color: #757575;
     position: relative;
 }

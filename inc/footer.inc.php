@@ -37,7 +37,7 @@
             </div>
 
             <div class="go-top">
-                <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon-arrow-up" aria-hidden="true"></i></a>
+                <a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-arrow-up" aria-hidden="true"></i></a>
             </div>
         </div>
 
